@@ -1,0 +1,81 @@
+版本号：1.0.1
+维护者：TReic
+更新时间：2026-04-20
+
+// 编写时，请至少包含“词条”、“通用词条”、“禁翻词条”、“正则表达式”这 4 个部分中的 1 个
+// 正则表达式区域外，使用引号包裹带有标点符号的原文词条
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Jeon Jeongguk = 田 柾国
+Jeon Jungkook = 田 柾国
+Jungkookie：柾国儿
+Kookie：果果
+Ggukie：果果
+Min Yoonji = 闵 玧智
+Min Yoongi = 闵 玧其
+Yoonie：玧尼
+Jung Hoseok = 郑 号锡
+Hobi：厚比
+Hoba：厚巴
+Park Jimin = 朴 智旻
+Jiminie：智旻尼
+Minie：旻尼
+Kim Seokjin = 金 硕珍
+Jin：珍
+Kim Namjoon = 金 南俊
+joonie：俊尼
+Kim Taehyung = 金 泰亨
+Tae：泰
+Taehyungie：泰亨儿
+"-chan"：酱
+"-ssi"：xi
+"-ah"：啊
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Bangtan：防弹
+vminkook：忙内line
+maknae：忙内
+aish：阿一西
+Aigo：哎一古
+Alpha：阿尔法
+Omega：欧米伽
+rut：发情期
+heat：发情期
+Omegaverse：ABO宇宙
+
+禁翻词条
+// 此区域区分大小写，用于保持原文
+BTS
+yoonkook
+YoonKook
+Yoonkook
+Kookgi
+kookgi
+Sugakookie
+SUGAKOOKIE
+sugakookie
+taegi
+Taegi
+sope
+SOPE
+Sope
+namgi
+Namgi
+yoonjin
+Yoonjin
+SIN
+jimsu
+Jimsu
+Yoonjim
+yoonjim
+SUGA
+suga
+Suga
+Agust D
+AgustD
+Agust
+ARMY
+"방탄소년단 | Bangtan Boys | BTS"
+Hybe
