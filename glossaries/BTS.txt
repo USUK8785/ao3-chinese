@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：TReic
 更新时间：2026-04-20
 
@@ -39,25 +39,19 @@ vminkook：忙内line
 maknae：忙内
 aish：阿一西
 Aigo：哎一古
+yoonkook：果糖
+Kookgi：果糖
+taegi：飞咻
 Alpha：阿尔法
 Omega：欧米伽
-rut：发情期
-heat：发情期
 Omegaverse：ABO宇宙
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
 BTS
-yoonkook
-YoonKook
-Yoonkook
-Kookgi
-kookgi
 Sugakookie
 SUGAKOOKIE
 sugakookie
-taegi
-Taegi
 sope
 SOPE
 Sope
@@ -76,6 +70,5 @@ Suga
 Agust D
 AgustD
 Agust
-ARMY
 "방탄소년단 | Bangtan Boys | BTS"
 Hybe
